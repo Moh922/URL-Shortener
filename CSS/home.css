@@ -13,7 +13,7 @@
 
 @font-face {
     font-family: 'tloz';
-    src: url(/font/TLOZ-Minish.ttf);
+    src: url(font/TLOZ-Minish.ttf);
 }
 
 /* hidden content start */
@@ -27,7 +27,7 @@
 /* hidden content stop */
 body {
     /* background-color: blue; */
-    background-image: url(/image/mobile-bg2.png);
+    background-image: url(image/mobile-bg2.png);
     background-size: cover;
 }
 .container{
@@ -318,7 +318,7 @@ body {
 /* web view */
 @media screen and (min-width: 924px) {
     body {
-        background-image: url(/image/desktop-bg2.png);
+        background-image: url(image/desktop-bg2.png);
       }
 
     /* hidden content start */
